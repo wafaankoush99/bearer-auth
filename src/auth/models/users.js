@@ -16,7 +16,7 @@ users.virtual('token').get(function () {
     username: this.username,
   };
   return jwt.sign(tokenObject, process.env.SECRET,
-    {expiresIn:process.env.EXPIRE},
+    {expiresIn: '900s'},
   );
 });
 
