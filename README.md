@@ -1,4 +1,4 @@
-# basic-auth
+# bearer-auth
 
 ## [Deployed App](https://basic-auth-wafa.herokuapp.com/)
 
