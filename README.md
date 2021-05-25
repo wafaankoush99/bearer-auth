@@ -85,7 +85,7 @@ Phase 2 :
 ✓ Need tests for auth middleware and the routes
 
 
-[Actions](https://github.com/wafaankoush99/basic-auth/actions) -->
+[Actions](https://github.com/wafaankoush99/bearer-auth/actions) -->
 
 
 <!-- ![](./test.png) -->
@@ -128,4 +128,9 @@ Phase 2 :
 
 <!-- ![auth](https://user-images.githubusercontent.com/78326110/119287469-3bfff300-bc4f-11eb-9c20-d0c0fa7bff7f.png)
 
-[PULL REQUEST (1) ](https://github.com/wafaankoush99/basic-auth/pull/1) -->
+
+
+![umlBerear](https://user-images.githubusercontent.com/78326110/119568843-a1222880-bdb6-11eb-93c6-e8806dc61640.png)
+
+[PULL REQUEST (1) ](https://github.com/wafaankoush99/bearer-auth/pull/1) 
+
