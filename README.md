@@ -1,6 +1,6 @@
 # bearer-auth
 
-## [Deployed App](https://basic-auth-wafa.herokuapp.com/)
+## [Deployed App](https://bearer-auth-wafa.herokuapp.com/)
 
 Authentication System Phase 1: Deploy an Express server that implements Basic Authentication, with signup and signin capabilities, using a Mongo database for storage.
 
