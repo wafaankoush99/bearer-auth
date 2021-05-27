@@ -3,7 +3,7 @@
 const express = require('express');
 const authRouter = express.Router();
 
-// const base64 = require('base-64');
+const base64 = require('base-64');
 
 const User = require('./models/users.js');
 const basicAuth = require('./middleware/basic.js');
