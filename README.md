@@ -1,6 +1,6 @@
 # bearer-auth
 
-## [Deployed App](https://basic-auth-wafa.herokuapp.com/)
+## [Deployed App](https://bearer-auth-wafa.herokuapp.com/)
 
 Authentication System Phase 1: Deploy an Express server that implements Basic Authentication, with signup and signin capabilities, using a Mongo database for storage.
 
@@ -85,7 +85,7 @@ Phase 2 :
 ✓ Need tests for auth middleware and the routes
 
 
-[Actions](https://github.com/wafaankoush99/basic-auth/actions) -->
+[Actions](https://github.com/wafaankoush99/bearer-auth/actions) -->
 
 
 <!-- ![](./test.png) -->
@@ -110,22 +110,8 @@ Phase 2 :
 
 - jsonwebtoken
 
-  <!-- "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@code-fellows/supergoose": "^1.0.11",
-    "base-64": "^1.0.0",
-    "bcrypt": "^5.0.0",
-    "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "jest": "^26.6.3",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.10.15",
-    "morgan": "^1.10.0" -->
-***
 
-<!-- ![auth](https://user-images.githubusercontent.com/78326110/119287469-3bfff300-bc4f-11eb-9c20-d0c0fa7bff7f.png)
+![umlBerear](https://user-images.githubusercontent.com/78326110/119568843-a1222880-bdb6-11eb-93c6-e8806dc61640.png)
 
-[PULL REQUEST (1) ](https://github.com/wafaankoush99/basic-auth/pull/1) -->
+[PULL REQUEST (1) ](https://github.com/wafaankoush99/bearer-auth/pull/1) 
+
